@@ -112,8 +112,3 @@ model 3. Save the trained model as `speaker_recognition_model.h5`
 -   Implement **attention mechanism**
 -   Extend to **real-time speaker recognition**
 
-------------------------------------------------------------------------
-
-## 📝 License
-
-This project is licensed under the MIT License.
